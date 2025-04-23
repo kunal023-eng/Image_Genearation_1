@@ -35,7 +35,7 @@ A responsive web-based **Text-to-Image Generator** that allows users to generate
 
 ```bash
 # Clone the repo
-git clone https://github.com/kunal023-eng/Image_Genearation_1.git
+git clone [https://github.com/kunal023-eng/Image_Genearation_1.git](https://github.com/kunal023-eng/Text-to-Image-Generator)
 
 # Navigate to the project folder
 cd Image_Genearation_1
